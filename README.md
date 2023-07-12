@@ -7,6 +7,6 @@
 JOSUE R.MAMANI  
 ANTONELLA P.PAREDES  
 JUAN ROMÁN PUCA  
-
+fernando jose farfan
 
 
