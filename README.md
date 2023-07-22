@@ -1,4 +1,4 @@
-# NOMBRE DEL PROYECTO
+# 2SHØES
 
 
 
@@ -10,7 +10,7 @@ JUAN ROMÁN PUCA
 fernando jose farfan
  María Victoria Sueldo
 
-## SITIOS DE INSPIRACION
+## SITIOS DE INSPIRACIÒN:
 ### https://www.dsw.com/
 ### https://www.nike.com.ar/
 ### https://www.adidas.com.ar/zapatillas
