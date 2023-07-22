@@ -1,8 +1,9 @@
-# Título del Proyecto::"2SHØES"  
+# Título del Proyecto:"2SHØES"  
 Bienvenido/a a nuestra página web de venta de zapatillas. Aquí encontrarás una amplia selección de calzado deportivo y de moda para satisfacer tus necesidades y preferencias. Nuestro objetivo es ofrecerte una experiencia de compra en línea fácil y segura mientras exploras y adquieres las zapatillas perfectas para ti.  
 ### Productos o servicios que brindará el sitio:  
-El sitio web se dedicará a la venta de zapatillas.  
-## Audiencia objetivo:  
+El sitio web se dedicará a la venta de zapatillas,incluye desde las últimas tendencias hasta opciones clásicas. Aquí encontraras comodidad a la hora de comprar, con descripciones detalladas de los productos, imágenes del producto con alta calidad y un servicio de ayuda 24/7
+## Audiencia objetivo: 
+Nuestro sitio va dirigido a personas apasionadas por la moda y el calzado, apuntamos a jóvenes y adultos, ya sea; 
 Ψ Deportistas y atletas: Ofrecer zapatillas especializadas para diversas actividades deportivas.  
 Ψ Jóvenes y adolescentes: Dirigirse a este grupo con estilos modernos y a la moda.  
 Ψ Profesionales y trabajadores activos: Proporcionar zapatillas cómodas y duraderas para el uso diario y en entornos laborales informales.  
