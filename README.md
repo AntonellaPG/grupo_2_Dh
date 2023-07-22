@@ -1,11 +1,4 @@
-# Título del Proyecto::"2SHØES"  
-Bienvenido/a a nuestra página web de venta de zapatillas. Aquí encontrarás una amplia selección de calzado deportivo y de moda para satisfacer tus necesidades y preferencias. Nuestro objetivo es ofrecerte una experiencia de compra en línea fácil y segura mientras exploras y adquieres las zapatillas perfectas para ti.
-### Productos o servicios que brindará el sitio:  
-El sitio web se dedicará a la venta de zapatillas.  
-## Audiencia objetivo:  
-Ψ Deportistas y atletas: Ofrecer zapatillas especializadas para diversas actividades deportivas.  
-Ψ Jóvenes y adolescentes: Dirigirse a este grupo con estilos modernos y a la moda.  
-Ψ Profesionales y trabajadores activos: Proporcionar zapatillas cómodas y duraderas para el uso diario y en entornos laborales informales.  
+# NOMBRE DEL PROYECTO
 
 ### Sitios Referentes:  
 https://www.jordan.com/collection/air-jordan-3  
@@ -26,3 +19,9 @@ FERNANDO JOSE FARFAN
 MARÍA VICTORIA SUELDO  
 
 
+## SITIOS DE INSPIRACIÒN:
+### https://www.dsw.com/
+### https://www.nike.com.ar/
+### https://www.adidas.com.ar/zapatillas
+### https://www.maxdeportes.com.ar/
+### https://www.jordan.com/collection/air-jordan-3
