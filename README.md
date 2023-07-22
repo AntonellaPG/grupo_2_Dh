@@ -3,7 +3,7 @@ Bienvenido/a a nuestra página web de venta de zapatillas. Aquí encontrarás un
 ### Productos o servicios que brindará el sitio:  
 El sitio web se dedicará a la venta de zapatillas
 ## Audiencia objetivo: 
-Nuestro sitio va dirigido a personas apasionadas por la moda y el calzado, apuntamos a jóvenes y adultos, ya sea; 
+Nuestro sitio va dirigido a personas apasionadas por la moda y el calzado, apuntamos a jóvenes y adultos, ya sea;  
 Ψ Deportistas y atletas: Ofrecer zapatillas especializadas para diversas actividades deportivas.  
 Ψ Jóvenes y adolescentes: Dirigirse a este grupo con estilos modernos y a la moda.  
 Ψ Profesionales y trabajadores activos: Proporcionar zapatillas cómodas y duraderas para el uso diario y en entornos laborales informales.  
