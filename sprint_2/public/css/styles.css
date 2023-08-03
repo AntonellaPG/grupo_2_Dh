@@ -1,0 +1,44 @@
+
+header {
+    background-color: black;
+}
+p {
+    color: blueviolet;
+}
+.log {
+    margin-right: 20px;
+}
+.log img {
+    width: 50px; /* Tamaño del logo */
+    height: 50px;
+    border-radius: 50%; /* Forma redonda */
+    object-fit: cover; /* Ajustar la imagen dentro del círculo */
+}
+.nom  {
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    
+}
+
+.buscar {
+    display: flex;
+    align-items: center;
+}
+
+.buscar input {
+    margin-right: 5px; /* Espacio entre el campo de búsqueda y el ícono */
+}
+
+.buscar i {
+    cursor: pointer;
+}
+
+/* Posicionamiento en la esquina superior derecha */
+.buscar {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
